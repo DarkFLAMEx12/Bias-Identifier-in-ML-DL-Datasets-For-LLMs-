@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import *
 import sv_ttk
 from tkinter import ttk
-import Functions_
+from Functions_ import *
 
 LBD = tk.Tk()
 sv_ttk.set_theme("dark")
